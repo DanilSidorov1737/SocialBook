@@ -1,5 +1,5 @@
 # SocialBook
-A social media site created using Django in Python and HTML
+A social media site created using Django in Python and HTML, By: Danil S.
 
 
 This social media site was created by following and editing the tutorial from FreeCodeCamp: https://www.youtube.com/watch?v=xSUm6iMtREA
